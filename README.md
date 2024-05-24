@@ -1,5 +1,15 @@
- 
-    
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Final Project: Machine Learning Implementation</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-zu+Q/i5xNNd/YWSiQuFcOGHR6Q2Y3wVGmuyO2cHUb9bsAjfqjFZ5DQ2p5uBPvLf9GzZZmsCjmg+tm/RGr5byWQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="DataScience.css">
+</head>
+<body>
+
     <div class="title-page">
         <div class="header">
             <i class="fas fa-brain"></i>
