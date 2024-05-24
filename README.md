@@ -1,6 +1,8 @@
-    <!DOCTYPE html>
+  <!DOCTYPE html>
+<html lang="en">
+<head><!DOCTYPE html>
     <html lang="en">
-    <head><!DOCTYPE html>
+    <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Final Project: Machine Learning Implementation</title>
@@ -1155,7 +1157,7 @@
                         <li>Inflation rates used for adjusting salaries are provided within the code as dictionaries (us_inflation_rates and global_inflation_rates).</li>
                     </ul>
                 
-                    <h3><i class="fas fa-users"></i> Contributor Details:</h3>
+                    <h3><i class="fas fa-users"></i> Contributor Details:</h4>
                     <ul>
                         <li>Analysis, visualization, and modeling code written by [Magpantay, Esguerra, Bautista].</li>
                         <li>Data cleaning, preprocessing, and manipulation may have been performed by [Magpantay, Esguerra, Bautista].</li>
