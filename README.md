@@ -1076,23 +1076,27 @@ user demographics, device usage, and subscription details.</p>
                     
 <img src="[![image](https://github.com/NashEsguerra/BSCS-CSST104-DATA-SCIENCE-SALARIES-2023-ANALYSIS.-EMB1/assets/145514134/a0ebe305-428d-4a69-a6ba-eb4d52a844a5)](https://private-user-images.githubusercontent.com/145514134/334308736-a0ebe305-428d-4a69-a6ba-eb4d52a844a5.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTY4ODMwNTgsIm5iZiI6MTcxNjg4Mjc1OCwicGF0aCI6Ii8xNDU1MTQxMzQvMzM0MzA4NzM2LWEwZWJlMzA1LTQyOGQtNGE2OS1hNmJhLWViNGQ1MmE4NDRhNS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNTI4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDUyOFQwNzUyMzhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jYmM3MGQ0N2ViOTU4ZTNjNzA5NDI1ZGQ4YzdkZmJkNDVjMmJmN2Y2NzcyOTRiZjA2NjZmMDlmNTk3ZWFlYzAxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.tdhloGUTcijkC-sLra7v9KmoIhGKHHIwkijoCzTCkts)" alt="Description of the image">
 
-<img src="![image](https://github.com/NashEsguerra/BSCS-CSST104-DATA-SCIENCE-SALARIES-2023-ANALYSIS.-EMB1/assets/145514134/e7bda298-4752-41f1-b718-92b38deb72b4)"
 
-![Data Science Salaries 2023 Analysis](https://github.com/NashEsguerra/BSCS-CSST104-DATA-SCIENCE-SALARIES-2023-ANALYSIS.-EMB1/assets/145514134/fc74c7de-ebf7-4c7f-b53c-7773cc263ad8)
 
-<img src="https://github.com/NashEsguerra/BSCS-CSST104-DATA-SCIENCE-SALARIES-2023-ANALYSIS.-EMB1/assets/145514134/11b427a1-331e-48c6-87a8-cbc5180659ce" alt="Description of the image">
+<img src="1.png" alt="Description of the image">
 
-<img src="![image](https://github.com/NashEsguerra/BSCS-CSST104-DATA-SCIENCE-SALARIES-2023-ANALYSIS.-EMB1/assets/145514134/f42c006f-6e31-44ca-81e9-42e67b6e584d)" alt="Description of the image">
+<img src="2.png" alt="Description of the image">
 
-<img src="![image](https://github.com/NashEsguerra/BSCS-CSST104-DATA-SCIENCE-SALARIES-2023-ANALYSIS.-EMB1/assets/145514134/74a4e54c-b800-4e6e-a14f-79784a2beeda)" alt="Description of the image">
+<img src="3.png" alt="Description of the image">
 
-<img src="![image](https://github.com/NashEsguerra/BSCS-CSST104-DATA-SCIENCE-SALARIES-2023-ANALYSIS.-EMB1/assets/145514134/28c4a83e-925f-44ce-b9ac-25d36b4cc87f)" alt="Description of the image">
+<img src="4.png" alt="Description of the image">
 
-<img src="![image](https://github.com/NashEsguerra/BSCS-CSST104-DATA-SCIENCE-SALARIES-2023-ANALYSIS.-EMB1/assets/145514134/70bf3e10-982a-456c-a7e8-36e279ec4aa6)" alt="Description of the image">
+<img src="5.png" alt="Description of the image">
 
-<img src="![image](https://github.com/NashEsguerra/BSCS-CSST104-DATA-SCIENCE-SALARIES-2023-ANALYSIS.-EMB1/assets/145514134/1166885a-e5f3-441a-ac27-fba879aa67cd)" alt="Description of the image">
+<img src="6.png" alt="Description of the image">
 
-<img src="![image](https://github.com/NashEsguerra/BSCS-CSST104-DATA-SCIENCE-SALARIES-2023-ANALYSIS.-EMB1/assets/145514134/173f1355-f31c-409a-bcd1-fd4fd8b82593)" alt="Description of the image">
+<img src="7.png" alt="Description of the image">
+
+<img src="8.png" alt="Description of the image">
+
+<img src="9.png" alt="Description of the image">
+
+<img src="10.png" alt="Description of the image">
                     
                             
                  
@@ -1104,35 +1108,35 @@ user demographics, device usage, and subscription details.</p>
                 <h1>Implementing the Model with Code Example</h1>
                    <h2><i class="fas fa-file-import"></i>1. Import Libraries</h2>
         
-                     <img src="![image](https://github.com/NashEsguerra/BSCS-CSST104-DATA-SCIENCE-SALARIES-2023-ANALYSIS.-EMB1/assets/145514134/10ea0585-ebc5-4a31-af07-ce8833a29788)" alt=" Import Libraries" widt="600">
+                     <img src="1.1.png" alt=" Import Libraries" widt="600">
                 
                 
                     <h2><i class="fas fa-database"></i>2. Numerical Data</h2>
         
-                      <img src="![image](https://github.com/NashEsguerra/BSCS-CSST104-DATA-SCIENCE-SALARIES-2023-ANALYSIS.-EMB1/assets/145514134/0d8c391e-c54a-4ac0-b1a6-1735ae4eefbe)" alt="Numerical Data" width="600">
+                      <img src="2.2.png" alt="Numerical Data" width="600">
                 
                      <h2><i class="fas fa-dice"></i>3. Splitting the dataset into the training set and test set</h2>
                 
 
-                     <img src="![image](https://github.com/NashEsguerra/BSCS-CSST104-DATA-SCIENCE-SALARIES-2023-ANALYSIS.-EMB1/assets/145514134/d19031aa-8371-44de-9b74-17fe892a0962)" alt="Splitting Dataset" width="600">
+                     <img src="3.3.png" alt="Splitting Dataset" width="600">
 
                    <h2><i class="fas fa-cogs"></i>4. Initialize the Linear Regression Model</h2>
         
-                      <img src="![image](https://github.com/NashEsguerra/BSCS-CSST104-DATA-SCIENCE-SALARIES-2023-ANALYSIS.-EMB1/assets/145514134/fbda06cc-42c0-4f46-bd05-d3562d12e069)" alt="Initializing Linear Regression Model" width="600">
+                      <img src="4.4.png" alt="Initializing Linear Regression Model" width="600">
 
                 
                     <h2><i class="fas fa-play"></i>5. Fit the model</h2>
                     
-                      <img src="![image](https://github.com/NashEsguerra/BSCS-CSST104-DATA-SCIENCE-SALARIES-2023-ANALYSIS.-EMB1/assets/145514134/582db6d2-c289-4bb2-9716-28b0d6c47a8b)" alt="Fit the model" width="600">
+                      <img src="5.5.png" alt="Fit the model" width="600">
                 
                    <h2><i class="fas fa-lightbulb"></i>6. Predict on the testing set</h2>
         
-                      <img src="![image](https://github.com/NashEsguerra/BSCS-CSST104-DATA-SCIENCE-SALARIES-2023-ANALYSIS.-EMB1/assets/145514134/981cadde-b9c0-4f28-9a49-938a0b2345e3)" alt="Predict on the testing set" width="600">
+                      <img src="6.6.png" alt="Predict on the testing set" width="600">
                 
                     
                    <h2><i class="fas fa-check"></i>7.Evaluate the model</h2>
         
-                      <img src="![image](https://github.com/NashEsguerra/BSCS-CSST104-DATA-SCIENCE-SALARIES-2023-ANALYSIS.-EMB1/assets/145514134/a62cb7d6-8815-409c-9122-788b7d6cdd3b)"Evaluate the model" width="600">
+                      <img src="7.7.png" width="600">
 
             </div>
             
