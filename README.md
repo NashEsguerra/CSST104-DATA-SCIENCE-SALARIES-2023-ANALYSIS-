@@ -1076,7 +1076,7 @@ user demographics, device usage, and subscription details.</p>
                     
 <img src="[![image](https://github.com/NashEsguerra/BSCS-CSST104-DATA-SCIENCE-SALARIES-2023-ANALYSIS.-EMB1/assets/145514134/a0ebe305-428d-4a69-a6ba-eb4d52a844a5)](https://private-user-images.githubusercontent.com/145514134/334308736-a0ebe305-428d-4a69-a6ba-eb4d52a844a5.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTY4ODMwNTgsIm5iZiI6MTcxNjg4Mjc1OCwicGF0aCI6Ii8xNDU1MTQxMzQvMzM0MzA4NzM2LWEwZWJlMzA1LTQyOGQtNGE2OS1hNmJhLWViNGQ1MmE4NDRhNS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNTI4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDUyOFQwNzUyMzhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jYmM3MGQ0N2ViOTU4ZTNjNzA5NDI1ZGQ4YzdkZmJkNDVjMmJmN2Y2NzcyOTRiZjA2NjZmMDlmNTk3ZWFlYzAxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.tdhloGUTcijkC-sLra7v9KmoIhGKHHIwkijoCzTCkts)" alt="Description of the image">
 
-<img src="![image](https://github.com/NashEsguerra/BSCS-CSST104-DATA-SCIENCE-SALARIES-2023-ANALYSIS.-EMB1/assets/145514134/e7bda298-4752-41f1-b718-92b38deb72b4)" alt="Description of the image">
+<img src="![image](https://github.com/NashEsguerra/BSCS-CSST104-DATA-SCIENCE-SALARIES-2023-ANALYSIS.-EMB1/assets/145514134/e7bda298-4752-41f1-b718-92b38deb72b4)"
 
 <img src="![image](https://github.com/NashEsguerra/BSCS-CSST104-DATA-SCIENCE-SALARIES-2023-ANALYSIS.-EMB1/assets/145514134/fc74c7de-ebf7-4c7f-b53c-7773cc263ad8)" alt="Description of the image">
 
