@@ -352,7 +352,7 @@ user demographics, device usage, and subscription details.</p>
             color: #FFA500; /* Changed icon color to orange */
         }
     </style>
-</head>
+
 <body>
 <div class="container">
     <div class="content">
@@ -858,7 +858,7 @@ user demographics, device usage, and subscription details.</p>
             }
         }
     </style>
-</head>
+
 <body>
 
     <html lang="en">
@@ -1079,28 +1079,17 @@ user demographics, device usage, and subscription details.</p>
 
 
 <img src="1.png" alt="Description of the image">
-
 <img src="2.png" alt="Description of the image">
-
 <img src="3.png" alt="Description of the image">
-
 <img src="4.png" alt="Description of the image">
-
 <img src="5.png" alt="Description of the image">
-
 <img src="6.png" alt="Description of the image">
-
 <img src="7.png" alt="Description of the image">
-
 <img src="8.png" alt="Description of the image">
-
 <img src="9.png" alt="Description of the image">
-
 <img src="10.png" alt="Description of the image">
                     
-                            
-                 
-                    <div>
+ <div>
                  
                     <div>
             
@@ -1191,6 +1180,5 @@ user demographics, device usage, and subscription details.</p>
                     <a href="https://drive.google.com/file/d/13P7JQj1vPx6D92X1KuMReBr8DseoVSnO/view?usp=sharing" style="color: red;">Google Drive Link</a>
                 </p>
                 
-            
-            </body>
-            </html>
+ </body>   
+ </html>
