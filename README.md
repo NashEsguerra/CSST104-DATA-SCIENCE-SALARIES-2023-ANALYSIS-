@@ -1075,14 +1075,23 @@ user demographics, device usage, and subscription details.</p>
                     
                     
 ![image](https://github.com/NashEsguerra/BSCS-CSST104-DATA-SCIENCE-SALARIES-2023-ANALYSIS.-EMB1/assets/145514134/a0ebe305-428d-4a69-a6ba-eb4d52a844a5)
+
 ![image](https://github.com/NashEsguerra/BSCS-CSST104-DATA-SCIENCE-SALARIES-2023-ANALYSIS.-EMB1/assets/145514134/e7bda298-4752-41f1-b718-92b38deb72b4)
+
 ![image](https://github.com/NashEsguerra/BSCS-CSST104-DATA-SCIENCE-SALARIES-2023-ANALYSIS.-EMB1/assets/145514134/fc74c7de-ebf7-4c7f-b53c-7773cc263ad8)
+
 ![image](https://github.com/NashEsguerra/BSCS-CSST104-DATA-SCIENCE-SALARIES-2023-ANALYSIS.-EMB1/assets/145514134/aac68273-88cf-4c73-84a9-6a7c7eda819f)
+
 ![image](https://github.com/NashEsguerra/BSCS-CSST104-DATA-SCIENCE-SALARIES-2023-ANALYSIS.-EMB1/assets/145514134/f42c006f-6e31-44ca-81e9-42e67b6e584d)
+
 ![image](https://github.com/NashEsguerra/BSCS-CSST104-DATA-SCIENCE-SALARIES-2023-ANALYSIS.-EMB1/assets/145514134/74a4e54c-b800-4e6e-a14f-79784a2beeda)
+
 ![image](https://github.com/NashEsguerra/BSCS-CSST104-DATA-SCIENCE-SALARIES-2023-ANALYSIS.-EMB1/assets/145514134/28c4a83e-925f-44ce-b9ac-25d36b4cc87f)
+
 ![image](https://github.com/NashEsguerra/BSCS-CSST104-DATA-SCIENCE-SALARIES-2023-ANALYSIS.-EMB1/assets/145514134/70bf3e10-982a-456c-a7e8-36e279ec4aa6)
+
 ![image](https://github.com/NashEsguerra/BSCS-CSST104-DATA-SCIENCE-SALARIES-2023-ANALYSIS.-EMB1/assets/145514134/1166885a-e5f3-441a-ac27-fba879aa67cd)
+
 ![image](https://github.com/NashEsguerra/BSCS-CSST104-DATA-SCIENCE-SALARIES-2023-ANALYSIS.-EMB1/assets/145514134/173f1355-f31c-409a-bcd1-fd4fd8b82593)
                     
                             
