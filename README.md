@@ -1078,7 +1078,7 @@ user demographics, device usage, and subscription details.</p>
 
 <img src="![image](https://github.com/NashEsguerra/BSCS-CSST104-DATA-SCIENCE-SALARIES-2023-ANALYSIS.-EMB1/assets/145514134/e7bda298-4752-41f1-b718-92b38deb72b4)"
 
-<img src="![image](https://github.com/NashEsguerra/BSCS-CSST104-DATA-SCIENCE-SALARIES-2023-ANALYSIS.-EMB1/assets/145514134/fc74c7de-ebf7-4c7f-b53c-7773cc263ad8)" alt="Description of the image">
+![Data Science Salaries 2023 Analysis](https://github.com/NashEsguerra/BSCS-CSST104-DATA-SCIENCE-SALARIES-2023-ANALYSIS.-EMB1/assets/145514134/fc74c7de-ebf7-4c7f-b53c-7773cc263ad8)
 
 <img src="![image](https://github.com/NashEsguerra/BSCS-CSST104-DATA-SCIENCE-SALARIES-2023-ANALYSIS.-EMB1/assets/145514134/aac68273-88cf-4c73-84a9-6a7c7eda819f)" alt="Description of the image">
 
